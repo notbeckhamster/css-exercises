@@ -1,0 +1,21 @@
+.odd {
+    background-color:rgb(238, 110, 138);
+
+}
+
+#num2 {
+    font-size: 36px;
+    color: blue;
+
+}
+
+#num3, 
+#num4 {
+    font-size: 24px;
+}
+
+
+#num4{
+    background: lightgreen;
+    font-weight: 700;
+}
